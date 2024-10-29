@@ -1,0 +1,9 @@
+When does Dynamic Programming work?
+
+1. Optimal substructure
+    A globally optimal solution can be found by combining optimal solutions to local subproblems.
+    Example : For x > 1, fib(x) = fib(x-1) + fib(x-2)
+
+2. Overlapping subproblems
+    Finding an optimal solution involves solving the same problem multiple times
+    Compute fib(x) or many times
