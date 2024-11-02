@@ -5,7 +5,7 @@ import random
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from Lecture_1.Greedy_Algorithms import Food
-from Lecture_2.1_Brute_Force_Algorithms import testMaxVal
+from Lecture_2.Brute_Force_Algorithms import testMaxVal
 
 
 "CODE TO TRY LARGER EXAMPLES"
